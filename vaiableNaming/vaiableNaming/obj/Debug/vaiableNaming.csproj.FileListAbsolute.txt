@@ -1,0 +1,7 @@
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 2\vaiableNaming\vaiableNaming\obj\Debug\vaiableNaming.csprojAssemblyReference.cache
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 2\vaiableNaming\vaiableNaming\obj\Debug\vaiableNaming.csproj.CoreCompileInputs.cache
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 2\vaiableNaming\vaiableNaming\bin\Debug\vaiableNaming.exe.config
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 2\vaiableNaming\vaiableNaming\bin\Debug\vaiableNaming.exe
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 2\vaiableNaming\vaiableNaming\bin\Debug\vaiableNaming.pdb
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 2\vaiableNaming\vaiableNaming\obj\Debug\vaiableNaming.exe
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 2\vaiableNaming\vaiableNaming\obj\Debug\vaiableNaming.pdb

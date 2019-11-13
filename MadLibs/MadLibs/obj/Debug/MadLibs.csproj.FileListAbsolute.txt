@@ -1,0 +1,7 @@
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 2\MadLibs\MadLibs\obj\Debug\MadLibs.csprojAssemblyReference.cache
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 2\MadLibs\MadLibs\obj\Debug\MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 2\MadLibs\MadLibs\bin\Debug\MadLibs.exe.config
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 2\MadLibs\MadLibs\bin\Debug\MadLibs.exe
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 2\MadLibs\MadLibs\bin\Debug\MadLibs.pdb
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 2\MadLibs\MadLibs\obj\Debug\MadLibs.exe
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 2\MadLibs\MadLibs\obj\Debug\MadLibs.pdb

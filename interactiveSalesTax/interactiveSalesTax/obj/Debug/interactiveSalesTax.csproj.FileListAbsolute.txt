@@ -1,0 +1,2 @@
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 2\interactiveSalesTax\interactiveSalesTax\obj\Debug\interactiveSalesTax.csprojAssemblyReference.cache
+C:\Users\dw158600\Desktop\C-sharp projects\chapter 2\interactiveSalesTax\interactiveSalesTax\obj\Debug\interactiveSalesTax.csproj.CoreCompileInputs.cache
